@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Models (large binary files)
+backend/models/*.onnx
+backend/models/*.tflite
+backend/models/*.pb
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/

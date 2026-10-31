@@ -1,0 +1,11 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+websockets>=13.0
+opencv-python>=4.10.0
+numpy>=1.26.0
+onnxruntime>=1.19.0
+scipy>=1.13.0
+requests>=2.32.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
